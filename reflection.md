@@ -2,3 +2,5 @@ Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Inheritance` affects your programming?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+Overall my impression of inheritance is it makes the code more organized and reusable. It allowed me to not have to duplicate code in each class. Having a clear base class like Building worked well because it centralized shared attributes and methods, making House, Library, and Cafe simpler and more focused on their unique characteristics. My biggest mistake was trying to first work on all the classes at the same time. It's best to follow instructions and take each class one at a time. My advice for future students, I’d suggest getting comfortable with understanding how the parent-child class relationships work in inheritance and practicing with different constructors and methods. Also continue to use office/TA hours and ask classmates for help if needed.
